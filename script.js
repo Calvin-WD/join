@@ -1,5 +1,5 @@
 /** @type {string} Base URL of the Firebase Realtime Database. */
-const DB_BASE_URL = "https://join-4092e-default-rtdb.europe-west1.firebasedatabase.app/";
+const DB_BASE_URL = "https://join---kanban-board-3c03b-default-rtdb.europe-west1.firebasedatabase.app/";
 
 /** @type {string} Database path for user records. */
 const DB_USERS = "users/";
